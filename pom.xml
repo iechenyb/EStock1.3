@@ -602,6 +602,11 @@
      <version>5.3.1</version>
  </dependency>
 <!-- seo -->
+ <dependency>
+            <groupId>org.apache.zookeeper</groupId>
+            <artifactId>zookeeper</artifactId>
+            <version>3.4.6</version>
+        </dependency>
 	</dependencies>
 	<build>
 		<finalName>EStock</finalName>
