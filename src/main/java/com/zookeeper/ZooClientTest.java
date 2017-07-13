@@ -13,7 +13,8 @@ import org.apache.zookeeper.KeeperException;
  * ls /  查看目录
  * create /zk myData 创建目录
  * @author DHUser
- *
+ *http://blog.csdn.net/LK10207160511/article/details/50530212
+ *version 3.4.6
  */
 public class ZooClientTest {
 	private static final Log log = LogFactory.getLog(ZooClientTest.class);
